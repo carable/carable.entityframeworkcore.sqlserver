@@ -1,2 +1,3 @@
-# carable.sqlserver
-Carable Sql Server 
+# Carable.EntityFrameworkCore.SqlServer
+
+Carable EntityFrameworkCore Sql Server extensions and helpers 
